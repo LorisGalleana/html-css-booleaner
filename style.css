@@ -43,6 +43,15 @@ h1 {
     font-size: 10px;
 }
 
+.highlighted {
+    background-color: rgb(255, 255, 0) ;
+}
+
+.main-text {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 /* .tim1 {
     width: 500px;
     height: 300px;
