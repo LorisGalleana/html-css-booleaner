@@ -2,6 +2,9 @@
     margin: 0;
 }
 
+.minimargin {
+    margin: 8px;
+}
 .pattern {
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
@@ -52,19 +55,20 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* tr:nth-child(even) {
-    background-color: rgb(177, 229, 242);
-} */
+.zeromargin {
+    text-align: start;
+}
 
 .table-head-color {
     background-color: rgb(32, 169, 229) ;
     color: white;
 }
 
-
 table {
     border-collapse: collapse;
     text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .small-th {
