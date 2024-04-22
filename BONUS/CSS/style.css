@@ -10,15 +10,15 @@
     background-repeat: repeat-x;
     background-size: 270px;
     background-color:rgb(78, 160, 255);
-    height: 70px;
+    height: 100px;
 }
 
 .logo {
     background-image: url(../img/logo.svg);
     background-repeat: no-repeat;
-    height: 70px;
-    background-position: 0.5% 80%;
-    background-size: 130px;
+    height: 110px;
+    background-position: 0% 80%;
+    background-size: 200px;
     margin: 0 8vw;
     }
 
