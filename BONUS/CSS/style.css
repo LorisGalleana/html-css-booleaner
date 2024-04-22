@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+}
+
+.minimargin {
+    margin: 0 8vw;
+}
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: 270px;
+    background-color:rgb(78, 160, 255);
+    height: 70px;
+}
+
+.logo {
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+    height: 70px;
+    background-position: 0.5% 80%;
+    background-size: 130px;
+    }
+
+h1 {
+    margin-top: 21px;
+    margin-bottom: 3px;
+}
+
+.gray-text {
+    color: rgb(151, 151, 151) ;
+}
+
+.dark-gray-text {
+    color: rgb(135, 135, 135);
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+
+.lightblue-text {
+    color: rgb(63, 181, 232);
+}
+
+.date {
+    font-size: 12px;
+}
+
+.photo {
+    margin-top: 20px;
+}
+
+img {
+    height: 30vh;
+}
+
+.subtext {
+    font-size: 10px;
+}
+
+.highlighted {
+    background-color: rgb(255, 255, 0) ;
+}
+
+.main-text {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.zeromargin {
+    text-align: start;
+}
+
+.table-head-color {
+    background-color: rgb(32, 169, 229) ;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.small-th {
+    width: 20%;
+}
+
+.colored-tr {
+    background-color: rgb(177, 229, 242);
+}
+
+.container {
+    background-image: url(../img/monitor.jpg);
+    height: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+}
+
+.container2 {
+    background-image: url(../img/graph.jpg);
+    height: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+}
+
+.position {
+    position: relative;
+    top: 10px;
+    left: 10px;
+
+}
+
