@@ -52,6 +52,10 @@ h1 {
     margin-bottom: 20px;
 }
 
+.table-head-color {
+    background-color: rgb(32, 169, 229) ;
+}
+
 /* .tim1 {
     width: 500px;
     height: 300px;
