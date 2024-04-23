@@ -87,9 +87,9 @@ table {
     width: 20%;
 }
 
-.colored-tr {
+/* .colored-tr {
     background-color: rgb(177, 229, 242);
-}
+} */
 
 .container {
     background-image: url(../img/monitor.jpg);
@@ -120,3 +120,8 @@ table {
 
 }
 
+tbody {
+    tr:nth-child(odd) {
+        background-color:rgb(177, 229, 242);
+    }
+}
